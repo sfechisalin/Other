@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\alin\desktop\github\kruskal\kruskal\source.cpp(90): warning C4018: '<': signed/unsigned mismatch
+c:\users\alin\desktop\github\kruskal\kruskal\source.cpp(106): warning C4018: '<': signed/unsigned mismatch
+  Kruskal.vcxproj -> C:\Users\Alin\Desktop\Github\Kruskal\Debug\Kruskal.exe
+  Kruskal.vcxproj -> C:\Users\Alin\Desktop\Github\Kruskal\Debug\Kruskal.pdb (Full PDB)
